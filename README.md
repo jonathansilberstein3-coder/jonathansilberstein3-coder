@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Jonathan Silberstein
+
+- I'm currently working on branching out
+- I'm currently learning SQL
+- How to reach me:
+-   email: jonathansilberstein3@gmail.com
+
 <!--
 **jonathansilberstein3-coder/jonathansilberstein3-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
